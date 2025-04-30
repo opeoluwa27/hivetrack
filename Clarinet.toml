@@ -12,6 +12,10 @@ depends_on = []
 path = "contracts/dao-governance.clar"
 depends_on = []
 
+[contracts.task-tracking]
+path = "contracts/task-tracking.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
