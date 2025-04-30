@@ -12,6 +12,10 @@ depends_on = []
 path = "contracts/dao-governance.clar"
 depends_on = []
 
+[contracts.reward-distribution]
+path = "contracts/reward-distribution.clar"
+depends_on = []
+
 [contracts.task-tracking]
 path = "contracts/task-tracking.clar"
 depends_on = []
